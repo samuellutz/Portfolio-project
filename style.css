@@ -5,11 +5,11 @@ body, html {
 body {
     font-weight: 200;
     font-size: 1.5rem;
-    color: #444;
-    background: lightgray;
+    color: ivory;
+    background: rgb(116, 128, 144);
 }
 .introleft{
-background: url(img/calming-21.jpg);
+background: url(img/pexels-photo-355209.jpeg);
 position: fixed;
 left: 0;
 width: 31.5%;
@@ -55,10 +55,10 @@ h2 {
 }
 
 a{
-    color: #444;
+    color: ivory;
     text-align: center;
 }
 .number {
-    color: #444;
+    color: ivory;
     text-align: center;
 }
