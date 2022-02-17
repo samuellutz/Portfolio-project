@@ -13,7 +13,7 @@ An updated portfolio built on and improved from previous works.
 
 * **Samuel Lutz** 
 
-- [Link to Portfolio Site](https://samuellutz.github.io/Portfolio/)
+- [Link to Portfolio Site](https://samuellutz.github.io/Portfolio-project/)
 - [Link to Github](https://github.com/samuellutz)
 - [Link to LinkedIn](https://www.linkedin.com/in/samuel-lutz-77138020b/)
 
