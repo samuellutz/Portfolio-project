@@ -26,7 +26,11 @@ background-size: 100vh;
     width: 100%;
     }
 }
+.thumbnail {
+    height: 400;
+    width: 400
 
+}
 .avatar {
     width: 10rem;
     height: 10rem;
