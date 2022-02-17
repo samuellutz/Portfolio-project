@@ -1,4 +1,4 @@
-# Portfolio-project
+# [Portfolio-project](https://samuellutz.github.io/Portfolio-project/)
 
 An updated portfolio built on and improved from previous works.
 
@@ -8,11 +8,6 @@ An updated portfolio built on and improved from previous works.
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-## Deployed Link
-
-* [See Live Site](#)
-
 
 ## Authors
 
